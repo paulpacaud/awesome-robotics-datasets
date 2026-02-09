@@ -73,6 +73,11 @@
   * [Roh's Angulation Dataset](https://github.com/sunglok/TriangulationToolbox/tree/master/dataset_roh), HyunChul Roh
   * [Wireless Sensor Network Dataset](http://www.cs.virginia.edu/~whitehouse/research/localization/), Kamin Whitehouse
 
+### Robotic Failure Detection
+* [RLBench-Fail](https://huggingface.co/collections/paulpacaud/rlbench-fail-robot-failure-detection-benchmark), Inria / ENS Paris
+* [BridgeDataV2-Fail](https://huggingface.co/collections/paulpacaud/bridgedatav2-fail-robot-failure-detection-benchmark), Inria / ENS Paris
+* [UR5-Fail](https://huggingface.co/collections/paulpacaud/ur5-fail-robot-failure-detection-benchmark), Inria / ENS Paris
+
 ### Path Planning and Navigation
 * [Pathfinding Benchmarks](http://www.movingai.com/benchmarks/), Moving AI Lab at Univ. of Denver
 * [Task and Motion Planner Benchmarking](http://www.neil.dantam.name/2018/rss-tmp-workshop/#benchmarks), RSS 2018 Workshop
